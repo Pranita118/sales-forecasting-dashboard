@@ -4,6 +4,8 @@ An end-to-end sales forecasting system built on the Superstore Sales dataset —
 
 **Live Dashboard:** [https://sales-forecasting-dashboard-kbrmqckyrrwdjwrkvhjkc6.streamlit.app/](https://sales-forecasting-dashboard-kbrmqckyrrwdjwrkvhjkc6.streamlit.app/)
 
+**Google Colab Notebook:** [Open in Colab](https://colab.research.google.com/drive/1XvSS0JP33Lm7inzYhGpoZEa_66NEvdHM?usp=sharing)
+
 ## Project Overview
 
 This project answers the core retail question: *how much of each product will we sell next month, and will we have enough stock to meet that demand?* It walks through the full pipeline a real data science team would build — from raw sales data to a forecast a supply chain manager could act on Monday morning.
